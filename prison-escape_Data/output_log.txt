@@ -1,0 +1,36 @@
+Initialize engine version: 4.6.0f2 (b073107612b7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     0 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\new user\Documents\TextAdventure\prison-escape_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\new user\Documents\TextAdventure\prison-escape_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\new user\Documents\TextAdventure\prison-escape_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\new user\Documents\TextAdventure\prison-escape_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\new user\Documents\TextAdventure\prison-escape_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\new user\Documents\TextAdventure\prison-escape_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+desktop: 1920x1200 59Hz; virtual: 3840x1200 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\new user\Documents\TextAdventure\prison-escape_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\new user\Documents\TextAdventure\prison-escape_Data\Managed\System.dll (this message is harmless)
+Load Level:Main
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 3.367341 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 126.
+Total: 0.525585 ms (FindLiveObjects: 0.007697 ms CreateObjectMapping: 0.005559 ms MarkObjects: 0.133855 ms  DeleteObjects: 0.013257 ms)
+
+UnloadTime: 0.378900 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 137.
+Total: 0.436206 ms (FindLiveObjects: 0.005559 ms CreateObjectMapping: 0.005559 ms MarkObjects: 0.106058 ms  DeleteObjects: 0.001710 ms)
+
